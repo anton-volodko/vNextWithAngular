@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "YBadminton"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-YBadminton-bf352148-4163-4193-912c-2c35bc6ad6c8;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
